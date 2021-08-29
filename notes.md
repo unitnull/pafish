@@ -1,0 +1,5 @@
+VMRay:  
+  
+"It’s important to note that virtual machine detection itself is no longer that relevant for malware authors as it had been in the past, and its relevance may vanish completely within the next few years as virtualization becomes a pervasive part of enterprise production environments. However, there still exists a lot of legacy malware that refuses to operate correctly when being executed inside a VM. For modern complex cyber threats, it is more relevant to hide the specific artifacts of the security solution itself, because this is what actually differentiates the analysis environment from a real victim machine. Depending on the underlying technology it still can become hard -or even impossible- to reach this goal: the more the monitoring component intervenes in the analysis environment, the more complex it becomes to completely hide its tracks. We wrote about this in blog posts on the Observer Effect and Lochard’s exchange principle."
+  
+https://www.vmray.com/cyber-security-blog/a-pafish-primer/  
